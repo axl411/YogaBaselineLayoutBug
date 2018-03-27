@@ -1,0 +1,6 @@
+framework module Pods_YogaBaselineLayoutBug {
+  umbrella header "Pods-YogaBaselineLayoutBug-umbrella.h"
+
+  export *
+  module * { export * }
+}
